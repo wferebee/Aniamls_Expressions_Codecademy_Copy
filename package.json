@@ -1,0 +1,19 @@
+{
+  "name": "aniamls_expressions_codecademy_copy",
+  "version": "1.0.0",
+  "description": "Worked through the lesson and just wanted to save my work so i could look back on this exercise that was very helpful",
+  "main": "animals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wferebee/Aniamls_Expressions_Codecademy_Copy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wferebee/Aniamls_Expressions_Codecademy_Copy/issues"
+  },
+  "homepage": "https://github.com/wferebee/Aniamls_Expressions_Codecademy_Copy#readme"
+}
